@@ -1,0 +1,2 @@
+# CppFileTypingSimulatorGUI
+读取文件模拟打字输入
